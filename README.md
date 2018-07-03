@@ -18,8 +18,6 @@ Edited Character Camp Menu images
 
 Translated Character Names for Camp Menu
 
-Multiple pages in the Detective Notebook translated
-
 ```
 [Imgur Gallery](https://imgur.com/a/hNzzp)
 
@@ -38,3 +36,7 @@ Extract contents to your Ao No Kiseki install directory. Overwrite if asked.
 I use Kaldaien's SpecialK to inject the textures into Ao. https://tinyurl.com/KaldaienSpecialK
 
 From time to time I may update the version I use with the latest version he releases and reupload the texture pack.
+
+I recommend using superninja2525's PC English patch [Here](https://gbatemp.net/threads/ao-no-kiseki-ppsspp-hd-texture-pack.484790/page-8#post-7944667)
+
+He translated images(.itp files) and text in general of the game as well. But in better quality. I removed "some" of the textures from my pack as a result. Specifically the textures involving the detective notebook. His patch does void a few of my textures from appearing in game, but I'm not really bothered to experiment on why that is.
