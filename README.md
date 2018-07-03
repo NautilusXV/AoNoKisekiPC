@@ -31,6 +31,8 @@ Download https://mega.nz/#!Zp5AnYwR!R6YvnbGGe1E3Soa42xyaLj5CirrlfVSVTJqrLOKVbiM
 
 Extract contents to your Ao No Kiseki install directory
 
+For future updates, delete the previous pack/version and also overwrite if asked.
+
 ## Notes
 
 I use Kaldaien's SpecialK to inject the textures into Ao. https://tinyurl.com/KaldaienSpecialK
