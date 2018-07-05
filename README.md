@@ -21,7 +21,7 @@ Translated Character Names for Camp Menu
 ```
 [Imgur Gallery](https://imgur.com/a/hNzzp)
 
-# Latest Version: Ver. 2.3.5
+# Latest Version: Ver. 2.3.8
 
 Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 
