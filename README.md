@@ -30,7 +30,7 @@ Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 ## Instructions
 ```
 
-1. Extract "My Mods" to your Documents folder.  Overwrite if asked.
+1. Extract "My Mods" to your Documents folder. Overwrite if asked.
 
 2. Extract "AnKPCTextureModv2.5" to your Ao no Kiseki install directory.
 ```
