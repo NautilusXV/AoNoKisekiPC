@@ -23,19 +23,39 @@ Translated Character Names for Camp Menu
 ```
 [Imgur Gallery](https://imgur.com/a/hNzzp)
 
-# Latest Version: Ver. 2.3.8
+# Latest Version: Ver. 2.5
 
 Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 
-## Installation
+## Instructions
+```
 
-Extract contents to your Ao No Kiseki install directory. Overwrite if asked.
+1. Extract "My Mods" to your Documents folder.  Overwrite if asked.
+
+2. Extract "AnKPCTextureModv2.5" to your Ao no Kiseki install directory.
+```
+
+# ReShade
+
+The effects I used were colourfulness and vibrance
+
+It just makes the game more colorful and maybe slightly brighter
+
+When in game, if the reshade preset isn't on, press NUM 2 to activate it
+
+```
+Overlay Toggle Key = NUM 1
+
+Effects Toggle Key = NUM 2
+```
 
 ### **For future updates, delete the previous version before installing the latest release.**
 
 ## Notes
 
 I use Kaldaien's SpecialK to inject the textures into Ao. https://tinyurl.com/KaldaienSpecialK
+
+I think ReShade should work right out-of-the-box
 
 From time to time I may update the version I use with the latest version he releases and reupload the texture pack.
 
