@@ -6,15 +6,17 @@ This texture pack has some of the textures that were in the PPSSPP version. Pret
 
 What to expect:
 ```
-HD KeA (Extra Section)
+New Title Screen
+
+HD KeA(Extra Section)
+
+Translated Battle Menu
 
 Playstation 4(DS4) Buttons
 
-Translated Battle Menu(Mostly)
+New Character Camp Menu images
 
 Translated Chapter Title Screens
-
-Edited Character Camp Menu images
 
 Translated Character Names for Camp Menu
 
@@ -29,7 +31,7 @@ Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 
 Extract contents to your Ao No Kiseki install directory. Overwrite if asked.
 
-**For future updates, delete the previous pack/version before installing the latest release.**
+### **For future updates, delete the previous version before installing the latest release.**
 
 ## Notes
 
@@ -39,4 +41,4 @@ From time to time I may update the version I use with the latest version he rele
 
 I recommend using superninja2525's PC English patch [Here](https://gbatemp.net/threads/ao-no-kiseki-ppsspp-hd-texture-pack.484790/page-8#post-7944667)
 
-He translated images(.itp files) and text in general of the game as well. But in better quality. I removed "some" of the textures from my pack as a result. Specifically the textures involving the detective notebook. His patch does void a few of my textures from appearing in game, but I'm not really bothered to experiment on why that is.
+He translated images(.itp files) and text in general of the game as well. But in better quality. I removed "some" of the textures from my pack as a result. Specifically the textures involving the detective notebook(mine were a rush job). His patch does void a few of my textures from appearing in game, but I'm not really bothered to experiment on why that is.
