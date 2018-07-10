@@ -1,6 +1,6 @@
 # Ao No Kiseki PC Texture Pack
 
-![Imgur](https://i.imgur.com/cycopED.png)
+![Imgur](https://i.imgur.com/QKGRlbg.png)
 
 This texture pack has some of the textures that were in the PPSSPP version. Pretty much the translated stuff since the game is already in HD. But it does have things that are not in the PPSSPP version though. Whenever the unofficial translation patch is released or the game is officially brought to west, most of the stuff in this pack will be irrelevant.
 
