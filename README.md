@@ -23,7 +23,7 @@ Translated Character Names for Camp Menu
 ```
 [Imgur Gallery](https://imgur.com/a/hNzzp)
 
-# Latest Version: Ver. 2.6
+# Latest Version: Ver. 2.7
 
 Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 
@@ -32,7 +32,7 @@ Download https://github.com/NautilusXV/AoNoKisekiPC/releases
 
 1. Extract "My Mods" to your Documents folder. Overwrite if asked.
 
-2. Extract "AnKPCTextureModv2.6" to your Ao no Kiseki install directory.
+2. Extract "AnKPCTextureModv2.7" to your Ao no Kiseki install directory.
 ```
 
 # ReShade
