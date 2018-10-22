@@ -16,8 +16,6 @@ Playstation 4(DS4) Buttons
 
 New Character Camp Menu images
 
-Translated Chapter Title Screens
-
 Translated Character Names for Camp Menu
 
 ```
